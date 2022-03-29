@@ -1,6 +1,6 @@
 '''
 Does subtraction
 '''
-a= 4
-b=3
-print(a-b)
+A= 4
+B=3
+print(A-B)
