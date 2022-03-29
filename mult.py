@@ -1,6 +1,6 @@
 '''
 Does multiplication
 '''
-a = 4
-b = 7
-print(a*b)
+A = 4
+B = 7
+print(A*B)
