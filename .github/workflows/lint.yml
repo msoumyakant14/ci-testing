@@ -12,8 +12,6 @@ jobs:
     steps:
     - name: Setup Python
       uses: actions/setup-python@v3
-      with:
-        python-version: 3.7.4
     - name: checkout source repo
       uses: actions/checkout@master
     - name: Install flake8
